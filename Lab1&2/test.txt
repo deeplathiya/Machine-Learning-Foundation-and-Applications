@@ -1,0 +1,4 @@
+this is the first file
+this is just the starting
+The file has been rewritten
+This is a new line
